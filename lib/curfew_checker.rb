@@ -33,6 +33,6 @@ def deluxe_curfew_checker(time)
       hours = curfew_time - current_time
       "You have #{hours} hour(s) left to keep having fun!"
   end
-end	
-  
+end
+
   
